@@ -1,0 +1,25 @@
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    background-color: rgb(78, 56, 177);
+    color:white;
+}
+
+.nav a {
+    margin: 0 10px;
+    text-decoration: none;
+    color: white;
+    font-size: 18px;
+}
+
+.sing-in{
+    background-color: thistle;
+    padding: 10px 15px;
+    cursor: pointer;
+    border-radius: 10px;
+    border: none;
+    font-size: 16px;
+        
+}
